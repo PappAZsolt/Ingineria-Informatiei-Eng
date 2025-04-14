@@ -1,0 +1,3 @@
+/Users/pappz/Documents/II Eng/An 1/Sem2/OOP/Exercitii Partiala/examen/cmake-build-debug/CMakeFiles/examen.dir
+/Users/pappz/Documents/II Eng/An 1/Sem2/OOP/Exercitii Partiala/examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pappz/Documents/II Eng/An 1/Sem2/OOP/Exercitii Partiala/examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

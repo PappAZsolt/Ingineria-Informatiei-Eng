@@ -1,0 +1,7 @@
+# ninja log v5
+3	654	1743072635909006494	CMakeFiles/Test_1B_b.dir/MonetaryUnit.cpp.o	f1e5ea3c91541dfc
+2	656	1743072635908606034	CMakeFiles/Test_1B_b.dir/main.cpp.o	c11816508d974b35
+656	808	1743072636067954692	Test_1B_b	99c8b40eebe102af
+5	717	1743077661144070622	CMakeFiles/Test_1B_b.dir/BillRepository.cpp.o	18dbbc2f1f75e5e8
+3	554	1743077689085834142	CMakeFiles/Test_1B_b.dir/main.cpp.o	c11816508d974b35
+555	715	1743077689247658913	Test_1B_b	8f5bb54d9b74d487

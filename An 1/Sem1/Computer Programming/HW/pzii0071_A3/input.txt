@@ -1,0 +1,10 @@
+2.5 3.6 red
+4.8 1.9 blue
+6.3 8.2 green
+7.1 5.4 yellow
+9.0 2.2 black
+3.4 7.7 white
+5.9 6.8 pink
+8.3 9.1 purple
+1.5 4.4 orange
+2.7 6.5 brown
