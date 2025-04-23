@@ -1,8 +1,16 @@
-//
-// Created by Papp Zsolt on 17.04.2025.
-//
 
-#ifndef LAB7_TRUCK_H
-#define LAB7_TRUCK_H
+#include "Vehicle.h"
 
-#endif //LAB7_TRUCK_H
+class Truck : public Vehicle {
+private:
+    double payloadCapacity;
+public:
+    Truck(const std::string& regNum, double capacity);
+
+    double getPayloadCapacity() const;
+    void setPayloadCapacity(double capacity);
+
+    void display() const override;
+};
+
+

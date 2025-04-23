@@ -1,8 +1,14 @@
-//
-// Created by Papp Zsolt on 17.04.2025.
-//
 
-#ifndef LAB7_GARAGE_H
-#define LAB7_GARAGE_H
+#include <vector>
+#include <memory>
+#include "Vehicle.h"
 
-#endif //LAB7_GARAGE_H
+class Garage {
+private:
+    std::vector<std::shared_ptr<Vehicle>> vehicles;
+public:
+    void addVehicle(std::shared_ptr<Vehicle> vehicle);
+    void display() const;
+};
+
+

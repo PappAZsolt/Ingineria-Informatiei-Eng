@@ -1,8 +1,16 @@
-//
-// Created by Papp Zsolt on 17.04.2025.
-//
 
-#ifndef LAB7_CAR_H
-#define LAB7_CAR_H
+#include "Vehicle.h"
 
-#endif //LAB7_CAR_H
+class Car : public Vehicle {
+private:
+    std::string bodyStyle;
+public:
+    Car(const std::string& regNum, const std::string& body);
+
+    std::string getBodyStyle() const;
+    void setBodyStyle(const std::string& style);
+
+    void display() const override;
+};
+
+

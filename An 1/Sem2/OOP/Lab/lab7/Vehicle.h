@@ -1,8 +1,15 @@
-//
-// Created by Papp Zsolt on 17.04.2025.
-//
+#ifndef VEHICLE_H
+#define VEHICLE_H
 
-#ifndef LAB7_VEHICLE_H
-#define LAB7_VEHICLE_H
+#include <string>
 
-#endif //LAB7_VEHICLE_H
+class Vehicle {
+protected:
+    std::string registrationNumber;
+public:
+    Vehicle(const std::string& regNum);
+    virtual void display() const = 0;
+    virtual ~Vehicle() = default;
+};
+
+#endif // VEHICLE_H

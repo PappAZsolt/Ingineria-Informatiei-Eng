@@ -1,0 +1,3 @@
+/Users/pappz/Documents/II Eng/An 1/Sem2/OOP/Lab/lab8/cmake-build-debug/CMakeFiles/lab8.dir
+/Users/pappz/Documents/II Eng/An 1/Sem2/OOP/Lab/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pappz/Documents/II Eng/An 1/Sem2/OOP/Lab/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

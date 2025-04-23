@@ -1,0 +1,4 @@
+Car DEF456 Coupe
+Truck GHJ999 12.5
+Car 12351 Sedan
+Truck 421341 7.5

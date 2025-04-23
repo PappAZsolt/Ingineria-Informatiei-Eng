@@ -3,3 +3,5 @@
 //
 
 #include "Vehicle.h"
+
+Vehicle::Vehicle(const std::string &regNum) : registrationNumber(regNum) {}
