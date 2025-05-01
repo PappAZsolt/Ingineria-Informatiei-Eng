@@ -6,9 +6,23 @@ typedef int TElem;
 #define NULL_TELEM -11111
 class ListIterator;
 
+#define INITIAL_CAP 10
+
+struct Node{
+    TElem value;
+    int next;
+
+};
+
+
 class IndexedList {
 private:
-	//TODO - Representation
+	Node* nodes;
+    int head;
+    int firstEmpty; // first empty element in the list
+    int capacity;
+    int length;
+    void resize();
 	
 	//DO NOT CHANGE THIS PART
     friend class ListIterator;    

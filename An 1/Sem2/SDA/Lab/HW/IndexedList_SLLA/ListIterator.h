@@ -7,9 +7,9 @@ class ListIterator{
 	friend class IndexedList;
 private:
 	const IndexedList& list;
-	//TODO - Representation
+	int currentNode;
 		
-    ListIterator(const IndexedList& lista);
+    ListIterator(const IndexedList& list);
 public:
     void first();
     void next();
