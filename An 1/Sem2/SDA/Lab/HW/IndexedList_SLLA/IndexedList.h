@@ -66,4 +66,10 @@ public:
     //destructor
     ~IndexedList();
 
+    // Removes every kth element from the list.
+    // return the number of removed elements
+    int removeFromKtoK(int k);
+
 };
+
+

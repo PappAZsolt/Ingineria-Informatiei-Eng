@@ -15,16 +15,16 @@ IndexedList::IndexedList() {
     length = 0;
 }
 
-int IndexedList::size() const {
+int IndexedList::size() const {  // Theta(1)
     return length;
 }
 
 
-bool IndexedList::isEmpty() const {
+bool IndexedList::isEmpty() const { // Theta(1)
     return length == 0;
 }
 
-TElem IndexedList::getElement(int pos) const {
+TElem IndexedList::getElement(int pos) const { // Best = theta(1) Avg = Worst = Theta(length)
     if (pos < 0 || pos >= length)
         throw std::exception();
 
@@ -34,7 +34,7 @@ TElem IndexedList::getElement(int pos) const {
     return nodes[current].value;
 }
 
-TElem IndexedList::setElement(int pos, TElem e) {
+TElem IndexedList::setElement(int pos, TElem e) {  // Same as getElement
    if (pos < 0 || pos >= length)
        throw std::exception();
 
@@ -47,7 +47,7 @@ TElem IndexedList::setElement(int pos, TElem e) {
    return oldTElem;
 }
 
-void IndexedList::addToEnd(TElem e) {
+void IndexedList::addToEnd(TElem e) { // Same as getElement
     if (firstEmpty == -1) // If there is no space available
         resize();
 
@@ -68,7 +68,7 @@ void IndexedList::addToEnd(TElem e) {
     length++;
 }
 
-void IndexedList::addToPosition(int pos, TElem e) {
+void IndexedList::addToPosition(int pos, TElem e) { // Same as getElement
     if (pos < 0 || pos > length)
         throw std::exception();
 
@@ -99,7 +99,7 @@ void IndexedList::addToPosition(int pos, TElem e) {
     length++;
 }
 
-TElem IndexedList::remove(int pos) {
+TElem IndexedList::remove(int pos) { // Same as getElement
     if (pos < 0 || pos >= length)
         throw std::exception();
 
@@ -130,7 +130,7 @@ TElem IndexedList::remove(int pos) {
 
 }
 
-int IndexedList::search(TElem e) const {
+int IndexedList::search(TElem e) const { // Same as getElement
     int current = head;
     int pos = 0;
     while (current != -1) {
@@ -142,15 +142,15 @@ int IndexedList::search(TElem e) const {
     return -1;
 }
 
-ListIterator IndexedList::iterator() const {
+ListIterator IndexedList::iterator() const { // Theta(1)
     return ListIterator(*this);        
 }
 
-IndexedList::~IndexedList() {
+IndexedList::~IndexedList() { // Theta(1)
 	delete[] nodes;
 }
 
-void IndexedList::resize() {
+void IndexedList::resize() { // Theta(length)
     int newCapacity = capacity * 2;
     Node* newNodes = new Node[newCapacity];
 
@@ -166,4 +166,28 @@ void IndexedList::resize() {
     nodes = newNodes;
     firstEmpty = capacity;
     capacity = newCapacity;
+}
+
+int IndexedList::removeFromKtoK(int k){  // Best == Avg == Worst == Theta(length)
+    if (k <= 0)
+        throw std::exception();
+
+    int removedCounter = 0;
+    int counter = 1;
+
+    int current = head;
+    while (current != -1)
+    {
+        if ((counter + 1) % k == 0)
+        {
+            removedCounter++;
+            counter++;
+            int nextNode = nodes[current].next;
+            nodes[current].next = nodes[nextNode].next;
+        }
+        current = nodes[current].next;
+        counter++;
+    }
+    return removedCounter;
+
 }
