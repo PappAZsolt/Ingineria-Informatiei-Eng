@@ -1,0 +1,8 @@
+//
+// Created by Papp Zsolt on 14.05.2025.
+//
+
+#ifndef BANKACCOUNT_BANKACCOUNT_H
+#define BANKACCOUNT_BANKACCOUNT_H
+
+#endif //BANKACCOUNT_BANKACCOUNT_H

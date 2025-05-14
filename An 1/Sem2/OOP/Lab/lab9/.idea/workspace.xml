@@ -9,13 +9,119 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="lab9" targetName="lab9" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bafc2327-e3f4-4047-adf6-83c75f1bde13" name="Changes" comment="" />
+    <list default="true" id="bafc2327-e3f4-4047-adf6-83c75f1bde13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/.idea/BankAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3b44c2a44c7f4a14b655.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercitii Partiala/Partiala2/exercitii/BankAccount/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongContainer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SongContainer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7c7c4a207bd67389dba7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/lab9.dir/song.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/lab9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/songs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/song.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/song.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/.idea/Test1B_a.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/BottleRepository.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/BottleRepository.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2d1e882a02ad82cf651a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0aa21e7f3b99e7db122e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c3255bbf32eb63672ba5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-27T12-52-09-0926.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/target-Test1B_a-Debug-be45351c29a16a2c0809.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/Test1B_a.dir/BottleRepository.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/Test1B_a.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/Test1B_a.dir/volume.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/Test1B_a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/volume.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercitii Partiala/Test1B_a/volume.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lab9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-204abe1fe26ad8774968.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ecc02e2aee5a51411cca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-05-08T10-11-23-0901.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-lab9-Debug-cf1ab16237f4836a0e3f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/IndexedList_SLLA" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/IndexedList_SLLA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SDA/Lab/HW/IndexedList_SLLA/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +129,10 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -33,22 +143,49 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2woDYdvBniRLO1XCHJpZ5NKP3nW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "CMake Application.lab9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab9" TARGET_NAME="lab9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lab9" RUN_TARGET_NAME="lab9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,10 +194,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746699081665</updated>
+      <workItem from="1746699083149" duration="7494000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
